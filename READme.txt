@@ -1,0 +1,1 @@
+A simple image modification regarding resizing the images
